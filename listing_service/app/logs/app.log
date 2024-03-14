@@ -1,0 +1,7 @@
+2024-03-15 05:05:24,560 - __main__ - INFO - Starting listing service at port
+2024-03-15 05:06:21,889 - __main__ - INFO - Starting listing service at port
+INFO - Starting listing service at port
+INFO - Starting listing service at port: {port}
+INFO - Starting listing service at port: ${port}
+INFO - Starting listing service at port: 8080
+INFO - Starting listing service at port: 8080
