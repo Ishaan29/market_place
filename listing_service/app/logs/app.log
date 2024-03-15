@@ -5,3 +5,123 @@ INFO - Starting listing service at port: {port}
 INFO - Starting listing service at port: ${port}
 INFO - Starting listing service at port: 8080
 INFO - Starting listing service at port: 8080
+INFO - Starting the service at http://127.0.0.1:8080
+INFO - Started server process [41277]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - 127.0.0.1:62135 - "GET /home HTTP/1.1" 200
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41277]
+INFO - Started server process [41343]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41343]
+INFO - Started server process [41382]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41382]
+INFO - Started server process [41393]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - 127.0.0.1:62141 - "GET /home HTTP/1.1" 404
+INFO - 127.0.0.1:62143 - "GET /listing HTTP/1.1" 200
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41393]
+INFO - Started server process [41457]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41457]
+INFO - Started server process [41520]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Recieved Listing call
+INFO - 127.0.0.1:62160 - "GET /listing HTTP/1.1" 200
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41520]
+INFO - Started server process [41537]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41537]
+INFO - Started server process [41560]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41560]
+INFO - Started server process [41585]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41585]
+INFO - Started server process [41622]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41622]
+INFO - Started server process [41704]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41704]
+INFO - Started server process [41763]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41763]
+INFO - Started server process [41787]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41787]
+INFO - Started server process [41823]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41823]
+INFO - Started server process [41830]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41830]
+INFO - Started server process [41881]
+INFO - Waiting for application startup.
+INFO - Application startup complete.
+INFO - Shutting down
+INFO - Waiting for application shutdown.
+INFO - Application shutdown complete.
+INFO - Finished server process [41881]
+INFO - Starting the service at http://127.0.0.1:8080
+INFO - Starting the service at http://127.0.0.1:8080
